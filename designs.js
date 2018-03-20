@@ -3,8 +3,8 @@
 
 // When size is submitted by the user, call makeGrid()
 
+$('#subButton').on('click', makeGrid);
+
 function makeGrid() {
-
-// Your code goes here!
-
+    console.log ("aaaaaaaaaaaa!!!!!!")
 }
